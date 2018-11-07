@@ -1,0 +1,11 @@
+{
+    "name": "YouTchat",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "4.16.4",
+        "socket.io": "2.1.1",
+        "ent": "~0.1.0"
+    },
+    "author": "Nathan <nathanvlntn@gmail.com>",
+    "description": "Test d'une appli Chat avec socket.io"
+}
